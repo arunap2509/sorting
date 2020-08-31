@@ -1,0 +1,24 @@
+D:\Coding\DS Code\Sorting\bin\Debug\netcoreapp3.0\Sorting.exe
+D:\Coding\DS Code\Sorting\bin\Debug\netcoreapp3.0\Sorting.deps.json
+D:\Coding\DS Code\Sorting\bin\Debug\netcoreapp3.0\Sorting.runtimeconfig.json
+D:\Coding\DS Code\Sorting\bin\Debug\netcoreapp3.0\Sorting.runtimeconfig.dev.json
+D:\Coding\DS Code\Sorting\bin\Debug\netcoreapp3.0\Sorting.dll
+D:\Coding\DS Code\Sorting\bin\Debug\netcoreapp3.0\Sorting.pdb
+D:\Coding\DS Code\Sorting\obj\Debug\netcoreapp3.0\Sorting.csprojAssemblyReference.cache
+D:\Coding\DS Code\Sorting\obj\Debug\netcoreapp3.0\Sorting.AssemblyInfoInputs.cache
+D:\Coding\DS Code\Sorting\obj\Debug\netcoreapp3.0\Sorting.AssemblyInfo.cs
+D:\Coding\DS Code\Sorting\obj\Debug\netcoreapp3.0\Sorting.dll
+D:\Coding\DS Code\Sorting\obj\Debug\netcoreapp3.0\Sorting.pdb
+D:\Coding\DataStructure and Algorithm\Sorting\bin\Debug\netcoreapp3.0\Sorting.exe
+D:\Coding\DataStructure and Algorithm\Sorting\bin\Debug\netcoreapp3.0\Sorting.deps.json
+D:\Coding\DataStructure and Algorithm\Sorting\bin\Debug\netcoreapp3.0\Sorting.runtimeconfig.json
+D:\Coding\DataStructure and Algorithm\Sorting\bin\Debug\netcoreapp3.0\Sorting.runtimeconfig.dev.json
+D:\Coding\DataStructure and Algorithm\Sorting\bin\Debug\netcoreapp3.0\Sorting.dll
+D:\Coding\DataStructure and Algorithm\Sorting\bin\Debug\netcoreapp3.0\Sorting.pdb
+D:\Coding\DataStructure and Algorithm\Sorting\obj\Debug\netcoreapp3.0\Sorting.csprojAssemblyReference.cache
+D:\Coding\DataStructure and Algorithm\Sorting\obj\Debug\netcoreapp3.0\Sorting.AssemblyInfoInputs.cache
+D:\Coding\DataStructure and Algorithm\Sorting\obj\Debug\netcoreapp3.0\Sorting.AssemblyInfo.cs
+D:\Coding\DataStructure and Algorithm\Sorting\obj\Debug\netcoreapp3.0\Sorting.dll
+D:\Coding\DataStructure and Algorithm\Sorting\obj\Debug\netcoreapp3.0\Sorting.pdb
+D:\Coding\DataStructure and Algorithm\Sorting\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Coding\DataStructure and Algorithm\Sorting\obj\Debug\netcoreapp3.0\Sorting.csproj.CopyComplete
